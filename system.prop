@@ -1,2 +1,2 @@
-ro.config.media_vol_steps=24
-ro.config.vc_call_vol_steps=14
+ro.config.media_vol_steps=90
+ro.config.vc_call_vol_steps=30
